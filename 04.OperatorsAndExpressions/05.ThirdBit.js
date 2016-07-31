@@ -3,7 +3,7 @@
 	
 	if (digInBase2.length > 3) {
 		var thirdBit = digInBase2[digInBase2.length - 4];
-		console.log(digInBase2[digInBase2.length - 4]);
+		console.log(thirdBit);
 	}
 	else {
 		console.log('0');
